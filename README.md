@@ -18,6 +18,7 @@ barchart.png: A bar chart delineating the performance metrics, rendering the com
 Results and Analysis:
 1. Ranking Table:
 For an in-depth exploration of ranked results, peruse the table_result.csv:
+
 | Model            | Model_size_GB | Inference_Time_ms | BLEU_Score | Fact_Checking_Score_(0-100) | TOPSIS_Score | Rank |
 | ---------------- | ------------- | ----------------- | ---------- | --------------------------- | ------------ | ---- |
 | T5-base          | 0.7           | 1.5               | 37.4       | 85                          | 0.920279     | 1    |
