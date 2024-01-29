@@ -27,6 +27,6 @@ For an in-depth exploration of ranked results, peruse the table_result.csv:
 | Bart Large       | 3             | 2.5               | 40.3       | 83                          | 0.202173     | 3    |
 | Jurassic-1 Jumbo | 18.6          | 3.8               | 44.2       | 88                          | 0.006171     | 5    |
 
-3. Bar Chart:
+2. Bar Chart:
 Dive into the visual representation of model performance through the insightful bar chart. This graphical marvel encapsulates the essence of each model's prowess, making the comparative analysis both accessible and enlightening.
 ![BarChart](https://github.com/Khyatimunjal/Pre-Trained-Model-Generation-For-Text-Generation-Topsis/assets/98097634/ec638386-d51a-4e91-975d-30430ed14521)
